@@ -1,0 +1,5 @@
+langchain_openai
+langchain-community
+langchain_chroma
+langchain-huggingface
+datasets

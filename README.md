@@ -7,7 +7,7 @@ This project implements a **Retrieval-Augmented Generation (RAG) pipeline** for 
 ## Installation  
 1. Clone the repository:  
    ```bash
-    git clone https://github.com/yourusername/rag-job-matching-assistant.git
+    git clone https://github.com/jayesh2810/rag-job-matching-assistant.git
     cd rag-job-matching-assistant
 
 2. Install dependencies:
